@@ -1,0 +1,8 @@
+{
+  "events": [
+    { "id": 1, "title": "Azure DevOps Launch in Tunisia", "date": "28-12-2018" },
+    { "id": 2, "title": "Formation: Concevoir des sites de qualité avec Symfony", "date": "15-05-2019" },
+    { "id": 3, "title": "Formation: Unity & WebGL Games", "date": "17-09-2018" },
+    { "id": 4, "title": "workshop : writing for social media", "date": "12-12-2018" }
+  ]
+}
